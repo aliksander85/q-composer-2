@@ -61,14 +61,17 @@
         fill: #4891ca;
       }
 
-      .cls-15 {
-        font-size: 9.41px;
+      .cls-15, .cls-16 {
         fill: #484848;
         font-family: BlairMdITCTTMedium, BlairMdITCTTMedium;
       }
 
+      .cls-15 {
+        font-size: 8.47px;
+      }
+
       .cls-16 {
-        font-size: 8.95px;
+        font-size: 8.06px;
       }
 
       .cls-17 {
@@ -100,7 +103,8 @@
           <path class="cls-13" d="M295.1,319a6.54,6.54,0,0,1,7.54,6.46" transform="translate(-271.68 -292.15)"/>
           <rect class="cls-14" x="22.72" y="49.58" width="3.27" height="20.68"/>
         </g>
-        <text class="cls-15" transform="translate(13.83 89.1)">Q<tspan class="cls-16" x="6.48" y="0" xml:space="preserve"> INSIGHT</tspan></text>
+        <text class="cls-15" transform="translate(23 89.1)">Q</text>
+        <text class="cls-15" transform="translate(33 89.1)">INSIGHT</text>
       </g>
       <g>
         <path class="cls-17" d="M349.8,318" transform="translate(-271.68 -292.15)"/>

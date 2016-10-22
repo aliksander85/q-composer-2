@@ -58,10 +58,13 @@
         mix-blend-mode: multiply;
       }
 
-      .cls-10 {
-        font-size: 8.47px;
+      .cls-10, .cls-11 {
         fill: #484848;
         font-family: BlairMdITCTTMedium, BlairMdITCTTMedium;
+      }
+
+      .cls-10 {
+        font-size: 8.47px;
       }
 
       .cls-11 {
@@ -90,7 +93,8 @@
           <path class="cls-9" d="M311.45,400.66a22.17,22.17,0,0,0-21.43,0" transform="translate(-255.74 -378.02)"/>
           <path class="cls-9" d="M311.45,439.27a22.17,22.17,0,0,1-21.43,0" transform="translate(-255.74 -378.02)"/>
         </g>
-        <text class="cls-10" transform="translate(6.83 87.11)">Q<tspan class="cls-11" x="5.83" y="0" xml:space="preserve"> FORESIGHT</tspan></text>
+        <text class="cls-10" transform="translate(18 87.11)">Q</text>
+        <text class="cls-11" transform="translate(28 87.11)">FORESIGHT</text>
       </g>
       <g>
         <g>
