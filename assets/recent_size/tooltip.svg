@@ -1,0 +1,25 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 213.55 97.64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #98b4ca;
+        stroke: #98b4ca;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+        stroke-width: 0.99px;
+      }
+
+      .cls-2 {
+        fill: #fee5c1;
+        stroke: #484848;
+      }
+    </style>
+  </defs>
+  <title>tooltip</title>
+  <g>
+    <rect class="cls-1" x="2.33" y="2.33" width="210.73" height="94.82" rx="5" ry="5"/>
+    <rect class="cls-2" x="0.49" y="0.49" width="210.73" height="94.82" rx="5" ry="5"/>
+  </g>
+</svg>
